@@ -5,3 +5,6 @@
 ### 应用实例
 
 1. 结合cornershop打印订单小票
+
+----------
+i@caiyongji.com
